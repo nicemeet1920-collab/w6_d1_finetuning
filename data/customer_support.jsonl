@@ -1,0 +1,8 @@
+{"messages":[{"role":"user","content":"How long does delivery take?"},{"role":"assistant","content":"Your order usually arrives within 2-3 business days."}]}
+{"messages":[{"role":"user","content":"Can I return my product?"},{"role":"assistant","content":"Yes. Eligible products can be returned within 7 days of delivery."}]}
+{"messages":[{"role":"user","content":"Can I cancel my order?"},{"role":"assistant","content":"Yes. You can cancel your order before it is shipped."}]}
+{"messages":[{"role":"user","content":"How can I track my order?"},{"role":"assistant","content":"You can track your order using the tracking link sent to your registered email."}]}
+{"messages":[{"role":"user","content":"What if my product arrives damaged?"},{"role":"assistant","content":"Please contact customer support within 48 hours and share a photo of the damaged product."}]}
+{"messages":[{"role":"user","content":"Do you offer cash on delivery?"},{"role":"assistant","content":"Yes. Cash on delivery is available for eligible orders."}]}
+{"messages":[{"role":"user","content":"How can I contact customer support?"},{"role":"assistant","content":"You can contact our support team through email or phone during business hours."}]}
+{"messages":[{"role":"user","content":"Can I get a refund?"},{"role":"assistant","content":"Refunds are processed after the returned product is received and approved."}]}
